@@ -225,7 +225,6 @@ function findFrequency(autocorr) {
 
     var distanceToNextLargestPeak = indexOfLargestPeakSoFar - 0;
 
-    // convert sample count to frequency
     var fundamentalFrequency = sampleRate() / distanceToNextLargestPeak;
     return fundamentalFrequency;
 }

@@ -68,8 +68,6 @@ function draw() {
 
     volume = source.getLevel();
 
-    // If the volume > 0.1,  a rect is drawn at a random location.
-    // The louder the volume, the larger the rectangle.
     threshold = slider1.value();
     $(".selectedBox").removeClass("selectedBox");
 
