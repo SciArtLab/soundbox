@@ -1,5 +1,4 @@
 var slider1;
-
 createOscillator();
 
 function createSliders(){
