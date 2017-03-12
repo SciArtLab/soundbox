@@ -13,7 +13,7 @@ Experimental digital environment for music creation
 * Reproduction of recorded sequence of MIDI notes in Sine Wave Oscillator.
 * Sound waveform visualization in HTML.
 
-##Improvements
+##Pending mprovements
 
 * Save MIDI data structure to MIDI file in order to use it in GarageBand or similar applications
 * Include MIDI editor to remove extra notes (harmonic/wrong detected frequencies).
