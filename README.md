@@ -7,9 +7,11 @@ Experimental digital environment for music creation
 ##Summary
 
 * Reading input sound from microphones, electric guitars or acoustic pickups.
-* Detection of fundamental frequency.
-* Transformation to MIDI (notes and aprox. duration) of played frequencies.
-* Reproduction of played sequence in Sin Oscillator
+* Filter input noise with slider.
+* Detection of fundamental frequency from human voice or analog musical instruments.
+* Transformation to MIDI (notes and aprox. duration) of played/singed frequencies.
+* Reproduction of recorded sequence of MIDI notes in Sine Wave Oscillator.
+* Sound waveform visualization in HTML.
 
 ##Improvements
 
