@@ -2,6 +2,8 @@
 
 Experimental digital environment for music creation
 
+**Transform your voice or your instrument in a MIDI interface**
+
 ##Summary
 
 * Reading input sound from microphones, electric guitars or acoustic pickups.
@@ -17,9 +19,9 @@ Experimental digital environment for music creation
 * Include envelopes and controls to modify timbre.
 
 More info: xmunch (at) xmunch.com
-http://sciartlab.com
+
+http://www.sciartlab.com
 
 
-![alt tag](https://raw.githubusercontent.com/SciArtLab/soundbox/master/img/img1.png)
 ![alt tag](https://raw.githubusercontent.com/SciArtLab/soundbox/master/img/img2.png)
 ![alt tag](https://raw.githubusercontent.com/SciArtLab/soundbox/master/img/img4.png)
