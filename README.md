@@ -4,7 +4,7 @@ Experimental digital environment for music creation
 
 **Transform your voice or your instrument in a MIDI interface**
 
-##Summary
+## Summary
 
 * Reading input sound from microphones, electric guitars or acoustic pickups.
 * Filter input noise with slider.
@@ -13,7 +13,7 @@ Experimental digital environment for music creation
 * Reproduction of recorded sequence of MIDI notes in Sine Wave Oscillator.
 * Sound waveform visualization in HTML.
 
-##Pending mprovements
+## Pending mprovements
 
 * Save MIDI data structure to MIDI file in order to use it in GarageBand or similar applications
 * Include MIDI editor to remove extra notes (harmonic/wrong detected frequencies).
